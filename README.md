@@ -3,6 +3,8 @@
 <p>
         As a passionate data engineer, I specialize in designing, building, and maintaining systems for data collection, storage, and processing. I am deeply interested in leveraging data to drive business intelligence and make informed decisions. My expertise includes working with various tools and technologies such as databases, cloud platforms, and big data frameworks.
     </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anwaribra" alt="anwaribra" /></a> </p>
+
 - 📫 How to reach me **anwarmousa100@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
