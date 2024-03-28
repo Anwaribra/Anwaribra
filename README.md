@@ -39,5 +39,9 @@
 </div>
 
 
+<details><summary><h3> 🔥 Streak Stats</h3></summary>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=i-godz&theme=tokyonight_duo" alt="i-godz" /></p></details>
+
+
 
 
