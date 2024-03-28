@@ -55,5 +55,22 @@
   </p>
 </details>
 
+<details>
+    <summary>
+        <h3>💻 GitHub Profile Stats</h3>
+    </summary>
+    <p align="center">
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+            <img alt="Anwaribra's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Anwaribra&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
+        </a>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anwaribra&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Anwaribra" height="230px"/>
+    </p>
+    <!-- Include your Spotify recently played tracks here -->
+    <p align="center">
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=31kqkihxgmvdz72fam2xukgwputq&count=5" alt="Recently Played Tracks" height="230px"/>
+    </p>
+</details>
+
+
 
 
