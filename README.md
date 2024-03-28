@@ -38,9 +38,12 @@
     </p>
 </div>
 
+<!-- Github account stats header-->
+<div id="user-content-toc"><ul align="center"><summary><h1 style="display: inline-block">Github Stats</h1><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 40px>  </picture></summary></ul></div>
+
 
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=i-godz&theme=tokyonight_duo" alt="i-godz" /></p></details>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Anwaribra&theme=tokyonight_duo" alt="i-godz" /></p></details>
 
 
 
