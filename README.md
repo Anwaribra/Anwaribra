@@ -40,7 +40,7 @@
 </div>
 
 <!-- Github account stats header-->
-<div id="user-content-toc"><ul align="center"><summary><h1 style="display: inline-block">Github Stats</h1><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 40px>  </picture></summary></ul></div>
+<div id="user-content-toc"><ul align="center"><summary><h1 style="display: inline-block">Github Stats</h1><picture> <img src = "[https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true](https://giphy.com/gifs/illustration-up-arrow-t7sEnf5w7wJ1CEPyy7)" width = 40px>  </picture></summary></ul></div>
 
 
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
