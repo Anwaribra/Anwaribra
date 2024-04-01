@@ -1,8 +1,8 @@
 <h2 align="center">Hi, I'm Anwar Ibrahim</h2>
-<p>
- 
-   As a passionate data engineer, I specialize in designing, building, and maintaining systems for data collection, storage, and processing. I am deeply interested in leveraging data to drive business intelligence and make informed decisions.  
-<p/>
+
+
+<h3 Proficient in analyzing systems, collecting data, building infrastructure, and managing operations. </h3>
+<h3 Passionate about leveraging data for enhanced business intelligence and decision-making. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anwaribra&label=Profile%20views&color=0e75b6&style=flat" alt="anwaribra" /> </p>
 
