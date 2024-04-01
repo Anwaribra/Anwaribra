@@ -2,7 +2,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Anwaribra&label=Profile%20views&color=000000&style=flat" alt="Anwaribra" /> </p>
 <p>
 	
-- Proficient in analyzing systems, collecting data, building infrastructure, and managing operations. <br>
+- Proficient in analyzing systems, collecting data, building infrastructure, and managing operations. 
 - Passionate about leveraging data for enhanced business intelligence and decision-making.
 </p>
 - 📫 How to reach me **anwarmousa100@gmail.com**
