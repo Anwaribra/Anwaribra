@@ -1,8 +1,8 @@
 <h2 align="center">Hi, I'm Anwar Ibrahim</h2>
 
 <p>
-<h3 Proficient in analyzing systems, collecting data, building infrastructure, and managing operations. </h3>
-<h3 Passionate about leveraging data for enhanced business intelligence and decision-making. </h3>
+<h3 align=> Proficient in analyzing systems, collecting data, building infrastructure, and managing operations. <br> 
+Passionate about leveraging data for enhanced business intelligence and decision-making. </h3>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anwaribra&label=Profile%20views&color=0e75b6&style=flat" alt="anwaribra" /> </p>
