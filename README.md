@@ -5,12 +5,8 @@
 - Proficient in analyzing systems, collecting data, building infrastructure, and managing operations. 
 - Passionate about leveraging data for enhanced business intelligence and decision-making.
 </p>
+
 - 📫 How to reach me **anwarmousa100@gmail.com**
-
-
-
-
-
 
 <div id="user-content-toc"><ul align="left"><summary><h2 style="display: inline-block"> Frameworks and Libraries</h2></summary></ul></div>
 <p>
