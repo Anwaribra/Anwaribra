@@ -3,7 +3,7 @@
 <p>
 	
 - Proficient in analyzing systems, collecting data, building infrastructure, and managing operations. <br>
-  - Passionate about leveraging data for enhanced business intelligence and decision-making.
+- Passionate about leveraging data for enhanced business intelligence and decision-making.
 </p>
 - 📫 How to reach me **anwarmousa100@gmail.com**
 
