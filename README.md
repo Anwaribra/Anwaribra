@@ -57,6 +57,7 @@ I'm a Data Engineer who devises straightforward and efficient methods for transf
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31kqkihxgmvdz72fam2xukgwputq" />
 </details>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anwaribra&show_icons=true&locale=en" alt="Anwaribra" /></p>
 
 
 
