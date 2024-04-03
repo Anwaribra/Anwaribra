@@ -37,8 +37,6 @@ I'm a Data Engineer who devises straightforward and efficient methods for transf
 <!-- Github account stats header-->
 <div id="user-content-toc"><ul align=><summary><h1 style="display: inline-block">Github Stats</h1></summary></ul></div>
 
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary> 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anwaribra&show_icons=true&locale=en" alt="Anwaribra" /></p>
 
 <details><summary><h3> Streak Stats</h3></summary>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Anwaribra&theme=tokyonight_duo" alt="Anwaribra" /></p></details>
