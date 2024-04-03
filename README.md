@@ -36,29 +36,22 @@ I'm a Data Engineer who devises straightforward and efficient methods for transf
 
 <!-- Github account stats header-->
 <div id="user-content-toc"><ul align=><summary><h1 style="display: inline-block">Github Stats</h1></summary></ul></div>
+<details><summary><h3>💻 GitHub Profile Stats</h3></summary> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anwaribra&show_icons=true&locale=en" alt="Anwaribra" /></p>
 
-
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
+<details><summary><h3> Streak Stats</h3></summary>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Anwaribra&theme=tokyonight_duo" alt="i-godz" /></p></details>
 
-<!-- Github account stats -->
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="Anwaribra's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Anwaribra&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anwaribra&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Anwaribra" height="230px"/>
-<br/>
-  </p>
-</details>
+
+
+
+
 
 <details>
     <summary><h3>▶️ Spotify Recently Played</h3></summary>
     <br />
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31kqkihxgmvdz72fam2xukgwputq" />
 </details>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anwaribra&show_icons=true&locale=en" alt="Anwaribra" /></p>
-
 
 
 
