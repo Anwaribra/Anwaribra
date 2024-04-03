@@ -1,12 +1,7 @@
 ### Hi I'm Anwar, Pleasure to meet you here! 👋
 
 
-<p align=> <img src="https://komarev.com/ghpvc/?username=Anwaribra&label=Profile%20views&color=000000&style=flat" alt="Anwaribra" /> </p>
-<p>
-	
-- Proficient in analyzing systems, collecting data, building infrastructure, and managing operations. 
-- Passionate about leveraging data for enhanced business intelligence and decision-making.
-</p>
+I'm a Data Engineer who devises straightforward and efficient methods for transferring data from various sources to the desired location, making it valuable for analytics, troubleshooting, and decision-making.
 
  - 📫 How to reach me **anwarmousa100@gmail.com**
 
