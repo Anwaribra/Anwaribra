@@ -34,16 +34,17 @@ I'm a Data Engineer who devises straightforward and efficient methods for transf
     </p>
 </div>
 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anwaribra&show_icons=true&locale=en" alt="Anwaribra" /></p>
 <!-- Github account stats header-->
 <div id="user-content-toc"><ul align=><summary><h1 style="display: inline-block">Github Stats</h1></summary></ul></div>
-
 
 <details><summary><h3> Streak Stats</h3></summary>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Anwaribra&theme=tokyonight_duo" alt="Anwaribra" /></p></details>
 
 
 <details>
-    <summary><h3>▶️ Spotify Recently Played</h3></summary>
+    <summary><h3> Spotify Recently Played</h3></summary>
     <br />
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31kqkihxgmvdz72fam2xukgwputq" />
 </details>
