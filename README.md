@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Anwar Ibrahim</h2>
+<h2 align="center">Hi, I'm Anwar ibrahim</h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Anwaribra&label=Profile%20views&color=000000&style=flat" alt="Anwaribra" /> </p>
 <p>
 	
