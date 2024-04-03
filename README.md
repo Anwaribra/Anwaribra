@@ -1,7 +1,7 @@
 ### Hi I'm Anwar, Pleasure to meet you here! 👋
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Anwaribra&label=Profile%20views&color=000000&style=flat" alt="Anwaribra" /> </p>
+<p align=> <img src="https://komarev.com/ghpvc/?username=Anwaribra&label=Profile%20views&color=000000&style=flat" alt="Anwaribra" /> </p>
 <p>
 	
 - Proficient in analyzing systems, collecting data, building infrastructure, and managing operations. 
