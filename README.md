@@ -5,9 +5,7 @@ I'm a Data Engineer who devises straightforward and efficient methods for transf
 
  - 📫 How to reach me **anwarmousa100@gmail.com**
 
-<b>Language, Tools, and Services</b>:
-<br/>
-<p align="left"> 
+
 <b>Language, Tools, and Services</b>:
 <br/>
 <p align="left"> 
