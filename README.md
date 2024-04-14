@@ -23,7 +23,6 @@ I'm a Data Engineer who devises straightforward and efficient methods for transf
     <p>Pyspark, EC2, Airflow, AWS Lambda, S3, Pyspark, Databricks, Scrapy, Selenium, Azure SQL, Azure Data Factory etc.</p>
 </p>
 
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anwaribra&show_icons=true&locale=en" alt="Anwaribra" /></p>
 <!-- Github account stats header-->
 <div id="user-content-toc"><ul align=><summary><h1 style="display: inline-block">Github Stats</h1></summary></ul></div>
