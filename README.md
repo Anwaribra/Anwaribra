@@ -34,5 +34,4 @@ I'm a Data Engineer who devises straightforward and efficient methods for transf
     <br />
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31kqkihxgmvdz72fam2xukgwputq" />
 </details>
-    
 
