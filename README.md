@@ -3,7 +3,7 @@
 I'm a Data Engineer who devises straightforward and efficient methods for transferring data from various sources to the desired location, making it valuable for analytics, troubleshooting, and decision-making.  
  - 📫 How to reach me **anwarmousa100@gmail.com**
     
-- <b>Language, Tools, and Services</b>:
+- <b>Language, Tools, and Services</b>: 
 <br/>
 <p align="left"> 
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
