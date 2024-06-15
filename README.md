@@ -1,7 +1,7 @@
 ### Hi I'm Anwar Mousa, Pleasure to meet you here!
   
 I'm a Data Engineer who devises straightforward and efficient methods for transferring data from various sources to the desired location, making it valuable for analytics, troubleshooting, and decision-making.    
- - 📫 How to reach me **anwarmousa100@gmail.com** 
+ - 📫 How to reach me **anwarmousa100@gmail.com**  
        
 - <b>Language, Tools, and Services</b>: 
 <br/>  
