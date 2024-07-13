@@ -3,7 +3,7 @@
 I'm a Data Engineer who devises straightforward and efficient methods for transferring data from various sources to the desired location, making it valuable for analytics, troubleshooting, and decision-making.
         
  - 📫 How to reach me **anwarmousa100@gmail.com**   
-Languages, Tools, and Services:
+- Languages, Tools, and Services:
 
 <p align="left">   
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40"> </a>
@@ -18,7 +18,7 @@ Languages, Tools, and Services:
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
-Additional Tools: Pyspark, EC2, Airflow, AWS Lambda, S3, Databricks, Scrapy, Selenium, Azure SQL, Azure Data Factory, etc.
+#### Additional Tools: Pyspark, EC2, Airflow, AWS Lambda, S3, Databricks, Scrapy, Selenium, Azure SQL, Azure Data Factory, etc.
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anwaribra&show_icons=true&locale=en" alt="Anwaribra" /></p>
 <!-- Github account stats header-->
