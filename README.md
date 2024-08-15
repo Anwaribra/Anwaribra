@@ -6,7 +6,7 @@ I'm a Data Engineer who devises straightforward and efficient methods for transf
 
 ---
 
-## Languages, Tools, and Services:
+## Languages, Tools, and Services: 
 
 <p align="left">   
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
