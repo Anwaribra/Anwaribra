@@ -21,7 +21,6 @@ I'm a Data Engineer who devises straightforward and efficient methods for transf
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
 </p>
-**Additional Tools**: Pyspark, EC2, Airflow, AWS Lambda, S3, Databricks, Scrapy, Selenium, Azure SQL, Azure Data Factory, etc.
 
 ---
 
@@ -31,13 +30,6 @@ I'm a Data Engineer who devises straightforward and efficient methods for transf
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anwaribra&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
 </p>
 
-
-<details>
-  <summary><h3>📊 Streak Stats</h3></summary>
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anwaribra&theme=tokyonight" alt="Streak Stats" />
-  </p>
-</details>
 
 <details>
     <summary><h3>Spotify Recently Played</h3></summary>
