@@ -25,12 +25,12 @@ I'm a Data Engineer who devises straightforward and efficient methods for transf
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anwaribra&show_icons=true&locale=en" alt="Anwaribra" /></p>
-<div id="user-content-toc">
-    <ul align="center">
-        <summary><h1 style="display: inline-block">Github Stats</h1></summary>
-    </ul>
-</div>
+## 📈 **GitHub Stats**
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anwaribra&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
+</p>
+
 
 <details>
     <summary><h3>Streak Stats</h3></summary>
