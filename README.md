@@ -30,4 +30,5 @@ I'm a Data Engineer who devises straightforward and efficient methods for transf
 </p>
 
 
-<summary><h3>Spotify Recently Played</h3></summary> <br /> <img src="https://spotify-recently-played-readme.vercel.app/api?user=31kqkihxgmvdz72fam2xukgwputq" /> </details>  
+   <summary><h3>Spotify Recently Played</h3> </summary> <br />
+   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31kqkihxgmvdz72fam2xukgwputq" /> </details>  
