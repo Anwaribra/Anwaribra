@@ -23,7 +23,7 @@ I'm a Data Engineer who devises straightforward and efficient methods for transf
 
 ---
 
-##  **GitHub Stats**
+## 📊 GitHub Stats
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anwaribra&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
