@@ -2,8 +2,7 @@
 
 I'm a Data Engineer who devises straightforward and efficient methods for transferring data from various sources to the desired location, making it valuable for analytics, troubleshooting, and decision-making. With experience in building scalable data pipelines and ETL processes, I focus on creating reliable data infrastructure that powers insights.
  
-- 📫 How to reach me: **anwarmousa100@gmail.com** 
- 
+- 📫 How to reach me: **anwarmousa100@gmail.com**
 ---
 
 ## 💼 Technical Skills
