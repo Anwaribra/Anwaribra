@@ -29,6 +29,10 @@ I'm a Data Engineer who devises straightforward and efficient methods for transf
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anwaribra&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
 </p>
 
+## 🎵 What I'm Listening To
 
-   <summary><h3>Spotify Recently Played</h3> </summary> <br />
-   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31kqkihxgmvdz72fam2xukgwputq" /> </details>  
+<details>
+  <summary><h3>Spotify Recently Played</h3></summary>
+  <br />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31kqkihxgmvdz72fam2xukgwputq" />
+</details>
