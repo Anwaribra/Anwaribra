@@ -2,10 +2,10 @@
 
 I'm a Data Engineer who devises straightforward and efficient methods for transferring data from various sources to the desired location, making it valuable for analytics, troubleshooting, and decision-making. With experience in building scalable data pipelines and ETL processes, I focus on creating reliable data infrastructure that powers insights.
    
-- 📫 How to reach me: **anwarmousa100@gmail.com**
+- How to reach me: **anwarmousa100@gmail.com**
 ---
 
-## 💼 Technical Skills
+##  Technical Skills
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -20,13 +20,13 @@ I'm a Data Engineer who devises straightforward and efficient methods for transf
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anwaribra&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
 </p>
 
-## 🎵 What I'm Listening To
+##  What I'm Listening To
 
 <details>
   <summary><h3>Spotify Recently Played</h3></summary>
