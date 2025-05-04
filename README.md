@@ -1,6 +1,6 @@
 # Hi, I'm Anwar Mousa 
 
-I'm a Data Engineer who devises straightforward and efficient methods for transferring data from various sources to the desired location, making it valuable for analytics, troubleshooting, and decision-making. With experience in building scalable data pipelines and ETL processes, I focus on creating reliable data infrastructure that powers insights.
+I'm a Data Engineer who devises straightforward and efficient methods for transferring data from various sources to the desired location, making it valuable for analytics, troubleshooting, and decision-making. With experience in building scalable data pipelines and ETL processes, I focus on creating reliable data infr![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31kqkihxgmvdz72fam2xukgwputq&width={width})astructure that powers insights.
    
 - How to reach me: **anwarmousa100@gmail.com**
 ---
@@ -31,5 +31,5 @@ I'm a Data Engineer who devises straightforward and efficient methods for transf
 <details>
   <summary><h3>Spotify Recently Played</h3></summary>
   <br />
-  <img src="(https://spotify-recently-played-readme.vercel.app/api?user=31kqkihxgmvdz72fam2xukgwputq&count={count})" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31kqkihxgmvdz72fam2xukgwputq&count={count}" />
 </details>
