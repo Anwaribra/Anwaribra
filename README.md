@@ -1,6 +1,6 @@
 # Anwar Mousa
 
-I'm a Data Engineer and Analytics Professional specializing in building robust data pipelines, ETL processes, and analytics solutions. I focus on transforming complex data into actionable insights, designing scalable data architectures, and implementing efficient data processing systems that drive business decisions.
+I'm a Data Engineer and Analytics specializing in building robust data pipelines, ETL processes, and analytics solutions, focus on transforming complex data into actionable insights, designing scalable data architectures, and implementing efficient data processing systems that drive business decisions.
 
 ## Technical Skills
 - **Data Processing**: Python, Pandas, PySpark
