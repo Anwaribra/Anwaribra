@@ -1,4 +1,3 @@
-# Anwar Mousa
 
 -  Email: anwarmousa100@gmail.com
 -  LinkedIn: https://www.linkedin.com/in/anwar-mousa/
